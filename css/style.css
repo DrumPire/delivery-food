@@ -175,7 +175,6 @@ main {
 .products-card__description--text {
   font-size: 18px;
   color: #8c8c8c;
-  margin-bottom: 24px;
 }
 .products-card__description-controls {
   display: flex;
