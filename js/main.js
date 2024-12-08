@@ -228,4 +228,3 @@ modalFunc();
 restFunc();
 goodFunc();
 
-
